@@ -3,7 +3,7 @@
 
 **Project:** Supervised Project - Local LLM PoC  
 **Student:** Alex (AbyIsBeast)  
-**Date:** February 17, 2025
+**Date:** February 17, 2026
 
 ---
 
@@ -18,7 +18,6 @@
 - I can see which document the answer came from
 
 **Priority:** HIGH  
-**Target:** Week 9
 
 ---
 
@@ -26,14 +25,14 @@
 
 **Story:** *"As an administrator, I want to add our company's PDF documents to the system, so that employees can query our specific internal knowledge."*
 
-**Acceptance Criteria:**
+**Acceptance Criteria:
+**
 - I can place PDF files in the data/sample-documents/ folder
 - Running the ingestion script processes all documents
 - Documents are searchable within 5 minutes of ingestion
 - I receive confirmation when ingestion is complete
 
-**Priority:** HIGH  
-**Target:** Week 6
+**Priority:** HIGH
 
 ---
 
@@ -47,7 +46,6 @@
 - System suggests I check other sources when it can't answer
 
 **Priority:** HIGH  
-**Target:** Week 6
 
 ---
 
@@ -62,7 +60,6 @@
 - No technical knowledge required
 
 **Priority:** MEDIUM  
-**Target:** Week 9
 
 ---
 
@@ -93,3 +90,8 @@
 
 **Priority:** MEDIUM  
 **Target:** Week 13
+
+
+
+
+
